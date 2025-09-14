@@ -5,4 +5,4 @@ A análise foi realizada no **Excel**, com apoio de técnicas estatísticas como
 
 📖 Documentei todo o processo em um artigo no (), onde explico passo a passo a metodologia e os principais resultados.
 
-📂 A planilha com todos os cálculos e gráficos está disponível na pasta (planilhas).
+📂 A planilha com todos os cálculos e gráficos está disponível na pasta (Planilha_VaR_Base).
